@@ -6,7 +6,7 @@
 [3. Краткая информация о данных] (https://github.com/Ekaterina-1989/SF_Data_Science/tree/main/Project_0/README.md#Краткая-информация-о-данных)
 [4. Этапы работы над проектом] (https://github.com/Ekaterina-1989/SF_Data_Science/tree/main/Project_0/README.md#Этапы-работы-над-проектом)
 [5. Результат] (https://github.com/Ekaterina-1989/SF_Data_Science/tree/main/Project_0/README.md#Результат)
-[5. Выводы] (https://github.com/Ekaterina-1989/SF_Data_Science/tree/main/Project_0/README.md#Выводы)
+[6. Выводы] (https://github.com/Ekaterina-1989/SF_Data_Science/tree/main/Project_0/README.md#Выводы)
 
 ### Описание проекта
 Угадать загаданное компьютером число за минимальное число попыток.
@@ -29,6 +29,24 @@
 
 
 ### Краткая информация о данных
+....
+
+:arrow_up:[к оглавлению]
+
+
+### Этапы работы над проектом
+....
+
+:arrow_up:[к оглавлению]
+
+
+### Результаты:
+....
+
+:arrow_up:[к оглавлению]
+
+
+### Выводы:
 ....
 
 :arrow_up:[к оглавлению]
