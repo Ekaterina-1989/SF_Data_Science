@@ -1,12 +1,12 @@
 # Проект 2. Отток клиентов банка
 
 ## Оглавление
-[1. Описание проекта](https://github.com/Ekaterina-1989/SF_Data_Science/blob/main/SkillFactory/PY_13_Визуализация%20данных/README.md#Описание-проекта) 
-[2. Какой кейс решаем?](https://github.com/Ekaterina-1989/SF_Data_Science/blob/main/SkillFactory/PY_13_Визуализация%20данных/README.md#Какой-кейс-решаем) 
-[3. Краткая информация о данных](https://github.com/Ekaterina-1989/SF_Data_Science/blob/main/SkillFactory/PY_13_Визуализация%20данных/README.md#Краткая-информация-о-данных) 
-[4. Этапы работы над проектом](https://github.com/Ekaterina-1989/SF_Data_Science/blob/main/SkillFactory/PY_13_Визуализация%20данных/README.md#Этапы-работы-над-проектом) 
-[5. Результат](https://github.com/Ekaterina-1989/SF_Data_Science/blob/main/SkillFactory/PY_13_Визуализация%20данных/README.md#Результат) 
-[6. Выводы](https://github.com/Ekaterina-1989/SF_Data_Science/blob/main/SkillFactory/PY_13_Визуализация%20данных/README.md#Выводы) 
+[1. Описание проекта](https://github.com/Ekaterina-1989/SF_Data_Science/blob/main/SkillFactory/PY_13_Визуализация%20данных/README.md#Описание-проекта)  
+[2. Какой кейс решаем?](https://github.com/Ekaterina-1989/SF_Data_Science/blob/main/SkillFactory/PY_13_Визуализация%20данных/README.md#Какой-кейс-решаем)  
+[3. Краткая информация о данных](https://github.com/Ekaterina-1989/SF_Data_Science/blob/main/SkillFactory/PY_13_Визуализация%20данных/README.md#Краткая-информация-о-данных)  
+[4. Этапы работы над проектом](https://github.com/Ekaterina-1989/SF_Data_Science/blob/main/SkillFactory/PY_13_Визуализация%20данных/README.md#Этапы-работы-над-проектом)  
+[5. Результат](https://github.com/Ekaterina-1989/SF_Data_Science/blob/main/SkillFactory/PY_13_Визуализация%20данных/README.md#Результат)  
+[6. Выводы](https://github.com/Ekaterina-1989/SF_Data_Science/blob/main/SkillFactory/PY_13_Визуализация%20данных/README.md#Выводы)  
 
 ### Описание проекта
 Выяснить основные причины оттока клиентов банка.
