@@ -53,7 +53,7 @@
 ### Результаты:
 Результатом данной работы является очистка представленных данных, которые в дальнейшем помогут предсказать наличие диабета у пациентов.
 
-:arrow_up:[к оглавлению](https://github.com/Ekaterina-1989/SF_Data_Science/tree/main/SkillFactory/PY_14_Очистка%20данных/README.md#Оглавление)  
+:arrow_up:[к оглавлению](https://github.com/Ekaterina-1989/SF_Data_Science/tree/main/SkillFactory/PY_14_Очистка%20данных/README.md#Оглавление)
 
 
 ### Выводы:
