@@ -1,7 +1,7 @@
 # Проект 3. Диагностика диабета
 
 ## Оглавление
-[1. Описание проекта](https://github.com/Ekaterina-1989/SF_Data_Science/tree/main/SkillFactory/PY_14_Очистка%20данных/README.md#Описание-проекта)
+[1. Описание проекта](https://github.com/Ekaterina-1989/SF_Data_Science/tree/main/SkillFactory/PY_14_Очистка%20данных/README.md#Описание-проекта)  
 [2. Какой кейс решаем?](https://github.com/Ekaterina-1989/SF_Data_Science/tree/main/SkillFactory/PY_14_Очистка%20данных/README.md#Какой-кейс-решаем)  
 [3. Краткая информация о данных](https://github.com/Ekaterina-1989/SF_Data_Science/tree/main/SkillFactory/PY_14_Очистка%20данных/README.md#Краткая-информация-о-данных)  
 [4. Этапы работы над проектом](https://github.com/Ekaterina-1989/SF_Data_Science/tree/main/SkillFactory/PY_14_Очистка%20данных/README.md#Этапы-работы-над-проектом)  
