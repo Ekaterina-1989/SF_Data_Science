@@ -1,18 +1,18 @@
 # Домашнее задание: EDA-5. Проектирование экспериментов.
 
 ## Оглавление
-[1. Описание проекта](https://github.com/Ekaterina-1989/SF_Data_Science/blob/main/SkillFactory/EDA/EDA-5.%20Проектирование%20экспериментов/Практика.%20Проектирование%20экспериментов/README.md#Описание-проекта)   
-[2. Какой кейс решаем?](https://github.com/Ekaterina-1989/SF_Data_Science/blob/main/SkillFactory/EDA/EDA-5.%20Проектирование%20экспериментов/Практика.%20Проектирование%20экспериментов/README.md#Какой-кейс-решаем?)   
-[3. Краткая информация о данных](https://github.com/Ekaterina-1989/SF_Data_Science/blob/main/SkillFactory/EDA/EDA-5.%20Проектирование%20экспериментов/Практика.%20Проектирование%20экспериментов/README.md#Краткая-информация-о-данных)   
-[4. Этапы работы над проектом](https://github.com/Ekaterina-1989/SF_Data_Science/blob/main/SkillFactory/EDA/EDA-5.%20Проектирование%20экспериментов/Практика.%20Проектирование%20экспериментов/README.md#Этапы-работы-над-проектом)   
-[5. Результат](https://github.com/Ekaterina-1989/SF_Data_Science/blob/main/SkillFactory/EDA/EDA-5.%20Проектирование%20экспериментов/Практика.%20Проектирование%20экспериментов/README.md#Результат)   
-[6. Выводы](https://github.com/Ekaterina-1989/SF_Data_Science/blob/main/SkillFactory/EDA/EDA-5.%20Проектирование%20экспериментов/Практика.%20Проектирование%20экспериментов/README.md#Выводы)   
+[1. Описание проекта](https://github.com/Ekaterina-1989/SF_Data_Science/blob/main/SkillFactory/EDA/EDA-5.Проектирование_экспериментов/ПРАКТИКА.Проектирование_экспериментов/README.md#Описание-проекта)   
+[2. Какой кейс решаем?](https://github.com/Ekaterina-1989/SF_Data_Science/blob/main/SkillFactory/EDA/EDA-5.Проектирование_экспериментов/ПРАКТИКА.Проектирование_экспериментов/README.md#Какой-кейс-решаем?)   
+[3. Краткая информация о данных](https://github.com/Ekaterina-1989/SF_Data_Science/blob/main/SkillFactory/EDA/EDA-5.Проектирование_экспериментов/ПРАКТИКА.Проектирование_экспериментов/README.md#Краткая-информация-о-данных)   
+[4. Этапы работы над проектом](https://github.com/Ekaterina-1989/SF_Data_Science/blob/main/SkillFactory/EDA/EDA-5.Проектирование_экспериментов/ПРАКТИКА.Проектирование_экспериментов/README.md#Этапы-работы-над-проектом)   
+[5. Результаты](https://github.com/Ekaterina-1989/SF_Data_Science/blob/main/SkillFactory/EDA/EDA-5.Проектирование_экспериментов/ПРАКТИКА.Проектирование_экспериментов/README.md#Результаты)   
+[6. Выводы](https://github.com/Ekaterina-1989/SF_Data_Science/blob/main/SkillFactory/EDA/EDA-5.Проектирование_экспериментов/ПРАКТИКА.Проектирование_экспериментов/README.md#Выводы)   
 
 
 ### Описание проекта
 Пришло время попробовать *Comet.ml* на практике. Воспользуемся кейсом *Medical Appointment No Shows*.
 
-:arrow_up:[к оглавлению](https://github.com/Ekaterina-1989/SF_Data_Science/blob/main/SkillFactory/EDA/EDA-5.%20Проектирование%20экспериментов/Практика.%20Проектирование%20экспериментов/README.md#Оглавление)  
+:arrow_up:[к оглавлению](https://github.com/Ekaterina-1989/SF_Data_Science/blob/main/SkillFactory/EDA/EDA-5.Проектирование_экспериментов/ПРАКТИКА.Проектирование_экспериментов/README.md#Оглавление)  
 
 
 ### Какой кейс решаем?   
@@ -28,13 +28,13 @@
 
 Планирование эксперимента и логирование изменений в *Comet.ml*.
 
-:arrow_up:[к оглавлению](https://github.com/Ekaterina-1989/SF_Data_Science/blob/main/SkillFactory/EDA/EDA-5.%20Проектирование%20экспериментов/Практика.%20Проектирование%20экспериментов/README.md#Оглавление)  
+:arrow_up:[к оглавлению](https://github.com/Ekaterina-1989/SF_Data_Science/blob/main/SkillFactory/EDA/EDA-5.Проектирование_экспериментов/ПРАКТИКА.Проектирование_экспериментов/README.md#Оглавление)  
 
 
 ### Краткая информация о данных   
 Данные о неявке на прием к врачу представлены на платформе *Skillfactory* в виде таблицы, а также указан источник датасета: ["Medical Appointment No Shows" (kaggle.com)](https://www.kaggle.com/datasets/joniarroba/noshowappointments)
 
-:arrow_up:[к оглавлению](https://github.com/Ekaterina-1989/SF_Data_Science/blob/main/SkillFactory/EDA/EDA-5.%20Проектирование%20экспериментов/Практика.%20Проектирование%20экспериментов/README.md#Оглавление)  
+:arrow_up:[к оглавлению](https://github.com/Ekaterina-1989/SF_Data_Science/blob/main/SkillFactory/EDA/EDA-5.Проектирование_экспериментов/ПРАКТИКА.Проектирование_экспериментов/README.md#Оглавление)  
 
 
 ### Этапы работы над проектом
@@ -43,13 +43,13 @@
 **3.** Логирование графиков в *Comet* происходит с помощью метода *log_figure()*.   
 
 
-### Результат
+### Результаты
 Результатом данной работы является представление обновлённого ноутбука, размещение ноутбука на *GitHub* и отправка ссылки на проверку.   
 
-:arrow_up:[к оглавлению](https://github.com/Ekaterina-1989/SF_Data_Science/blob/main/SkillFactory/EDA/EDA-5.%20Проектирование%20экспериментов/Практика.%20Проектирование%20экспериментов/README.md#Оглавление)  
+:arrow_up:[к оглавлению](https://github.com/Ekaterina-1989/SF_Data_Science/blob/main/SkillFactory/EDA/EDA-5.Проектирование_экспериментов/ПРАКТИКА.Проектирование_экспериментов/README.md#Оглавление)  
 
 
 ### Выводы
 Произведено логирование данных в *Comet.ml*.
 
-:arrow_up:[к оглавлению](https://github.com/Ekaterina-1989/SF_Data_Science/blob/main/SkillFactory/EDA/EDA-5.%20Проектирование%20экспериментов/Практика.%20Проектирование%20экспериментов/README.md#Оглавление)  
+:arrow_up:[к оглавлению](https://github.com/Ekaterina-1989/SF_Data_Science/blob/main/SkillFactory/EDA/EDA-5.Проектирование_экспериментов/ПРАКТИКА.Проектирование_экспериментов/README.md#Оглавление)  
