@@ -2,7 +2,7 @@
 
 ## Оглавление
 [1. Описание проекта](https://github.com/Ekaterina-1989/SF_Data_Science/blob/main/SkillFactory/EDA/EDA-5.%20Проектирование%20экспериментов/Практика.%20Проектирование%20экспериментов/README.md#Описание-проекта)   
-[2. Какой кейс решаем?](https://github.com/Ekaterina-1989/SF_Data_Science/blob/main/SkillFactory/EDA/EDA-5.%20Проектирование%20экспериментов/Практика.%20Проектирование%20экспериментов/README.md#Какой-кейс-решаем)   
+[2. Какой кейс решаем?](https://github.com/Ekaterina-1989/SF_Data_Science/blob/main/SkillFactory/EDA/EDA-5.%20Проектирование%20экспериментов/Практика.%20Проектирование%20экспериментов/README.md#Какой-кейс-решаем?)   
 [3. Краткая информация о данных](https://github.com/Ekaterina-1989/SF_Data_Science/blob/main/SkillFactory/EDA/EDA-5.%20Проектирование%20экспериментов/Практика.%20Проектирование%20экспериментов/README.md#Краткая-информация-о-данных)   
 [4. Этапы работы над проектом](https://github.com/Ekaterina-1989/SF_Data_Science/blob/main/SkillFactory/EDA/EDA-5.%20Проектирование%20экспериментов/Практика.%20Проектирование%20экспериментов/README.md#Этапы-работы-над-проектом)   
 [5. Результат](https://github.com/Ekaterina-1989/SF_Data_Science/blob/main/SkillFactory/EDA/EDA-5.%20Проектирование%20экспериментов/Практика.%20Проектирование%20экспериментов/README.md#Результат)   
@@ -43,13 +43,13 @@
 **3.** Логирование графиков в *Comet* происходит с помощью метода *log_figure()*.   
 
 
-### Результаты:
+### Результат
 Результатом данной работы является представление обновлённого ноутбука, размещение ноутбука на *GitHub* и отправка ссылки на проверку.   
 
 :arrow_up:[к оглавлению](https://github.com/Ekaterina-1989/SF_Data_Science/blob/main/SkillFactory/EDA/EDA-5.%20Проектирование%20экспериментов/Практика.%20Проектирование%20экспериментов/README.md#Оглавление)  
 
 
-### Выводы:
+### Выводы
 Произведено логирование данных в *Comet.ml*.
 
 :arrow_up:[к оглавлению](https://github.com/Ekaterina-1989/SF_Data_Science/blob/main/SkillFactory/EDA/EDA-5.%20Проектирование%20экспериментов/Практика.%20Проектирование%20экспериментов/README.md#Оглавление)  
