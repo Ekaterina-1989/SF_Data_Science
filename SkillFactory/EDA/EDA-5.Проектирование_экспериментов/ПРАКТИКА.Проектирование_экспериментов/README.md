@@ -2,7 +2,7 @@
 
 ## Оглавление
 [1. Описание проекта](https://github.com/Ekaterina-1989/SF_Data_Science/blob/main/SkillFactory/EDA/EDA-5.Проектирование_экспериментов/ПРАКТИКА.Проектирование_экспериментов/README.md#Описание-проекта)   
-[2. Какой кейс решаем?](https://github.com/Ekaterina-1989/SF_Data_Science/blob/main/SkillFactory/EDA/EDA-5.Проектирование_экспериментов/ПРАКТИКА.Проектирование_экспериментов/README.md#Какой-кейс-решаем?)   
+[2. Какой кейс решаем?](https://github.com/Ekaterina-1989/SF_Data_Science/blob/main/SkillFactory/EDA/EDA-5.Проектирование_экспериментов/ПРАКТИКА.Проектирование_экспериментов/README.md#Какой-кейс-решаем)   
 [3. Краткая информация о данных](https://github.com/Ekaterina-1989/SF_Data_Science/blob/main/SkillFactory/EDA/EDA-5.Проектирование_экспериментов/ПРАКТИКА.Проектирование_экспериментов/README.md#Краткая-информация-о-данных)   
 [4. Этапы работы над проектом](https://github.com/Ekaterina-1989/SF_Data_Science/blob/main/SkillFactory/EDA/EDA-5.Проектирование_экспериментов/ПРАКТИКА.Проектирование_экспериментов/README.md#Этапы-работы-над-проектом)   
 [5. Результаты](https://github.com/Ekaterina-1989/SF_Data_Science/blob/main/SkillFactory/EDA/EDA-5.Проектирование_экспериментов/ПРАКТИКА.Проектирование_экспериментов/README.md#Результаты)   
